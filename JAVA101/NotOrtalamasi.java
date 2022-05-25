@@ -1,5 +1,5 @@
 
-package patika.dev;
+/*package patika.dev;
 
 import java.util.Scanner;
 
@@ -45,4 +45,4 @@ public class NotOrtalamasi {
         
     }
     
-}
+}*/
